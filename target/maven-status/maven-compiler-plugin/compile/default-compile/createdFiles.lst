@@ -1,0 +1,6 @@
+com\crud\crud\model\Employee.class
+com\crud\crud\controller\EmployeeController.class
+com\crud\crud\model\Department.class
+com\crud\crud\repository\EmployeeRepository.class
+com\crud\crud\services\EmployeeService.class
+com\crud\crud\CrudApplication.class
